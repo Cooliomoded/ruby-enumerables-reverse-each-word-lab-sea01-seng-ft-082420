@@ -9,4 +9,3 @@ def reverse_each_word(string)
   reversed_array.join(" ")
 end
 
-binding.pry
